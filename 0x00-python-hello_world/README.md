@@ -1,0 +1,1 @@
+This directory contain project solutions for the ALX sprint2 session in python.
