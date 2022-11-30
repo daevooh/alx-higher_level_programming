@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python3s
 import random
 number = random.randint(-10000, 10000)
 if number < 0:
