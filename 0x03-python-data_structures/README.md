@@ -1,0 +1,1 @@
+This repo directory contains python & c scripts which are solutions to the alx software enginering program sprint 2
